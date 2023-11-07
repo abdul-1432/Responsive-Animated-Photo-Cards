@@ -16,7 +16,7 @@ Follow these steps to integrate the Responsive Animated Photo Cards into your pr
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/yourusername/responsive-animated-photo-cards.git
+   git clone https://github.com/abdul-1432/Responsive-Animated-Photo-Cards
    ```
 
 2. **Copy Files:**
