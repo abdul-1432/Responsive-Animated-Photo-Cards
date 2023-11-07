@@ -2,6 +2,10 @@
 
 Welcome to the Responsive Animated Photo Cards project! This repository contains a simple and elegant solution for displaying photo cards with a focus on responsiveness and animation. Whether you're building a portfolio website or a gallery, these cards will add a touch of style to your design.
 
+## Preview
+![Uploading After.png…]()
+
+
 ## Features
 
 - **Responsive Design:** The photo cards adapt seamlessly to different screen sizes, ensuring a consistent and visually pleasing experience on both desktop and mobile devices.
@@ -34,9 +38,6 @@ Follow these steps to integrate the Responsive Animated Photo Cards into your pr
 6. **Deploy:**
    Once satisfied with the customization, deploy the updated files to your web server or hosting platform.
 
-## Demo
-
-Check out the [demo](link-to-demo) to see the Responsive Animated Photo Cards in action.
 
 ## Contributing
 
