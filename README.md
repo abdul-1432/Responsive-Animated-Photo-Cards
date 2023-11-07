@@ -3,8 +3,10 @@
 Welcome to the Responsive Animated Photo Cards project! This repository contains a simple and elegant solution for displaying photo cards with a focus on responsiveness and animation. Whether you're building a portfolio website or a gallery, these cards will add a touch of style to your design.
 
 ## Preview
-![Uploading After.png…]()
 
+![After](https://github.com/abdul-1432/Responsive-Animated-Photo-Cards/assets/124916666/6aedb884-68cf-4b53-8783-2ee74fd8d1cf)
+
+![Before](https://github.com/abdul-1432/Responsive-Animated-Photo-Cards/assets/124916666/ccf4524b-ce61-4252-bc3a-a4f34e418388)
 
 ## Features
 
@@ -39,17 +41,13 @@ Follow these steps to integrate the Responsive Animated Photo Cards into your pr
    Once satisfied with the customization, deploy the updated files to your web server or hosting platform.
 
 
-## Contributing
-
-If you have ideas for improvements or new features, feel free to contribute! Follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file to get started.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
-- Special thanks to [Author Name] for inspiration and guidance.
+- Special thanks to [CodePen] for inspiration and guidance.
 - Icons used in this project are provided by [Icon Name](link-to-icon).
 
 Happy coding!
