@@ -47,7 +47,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-- Special thanks to [CodePen] for inspiration and guidance.
-- Icons used in this project are provided by [Icon Name](link-to-icon).
+- Special thanks to [CodePen](https://codepen.io/) for inspiration and guidance.
 
 Happy coding!
